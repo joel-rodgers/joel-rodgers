@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-rodgers&label=Profile%20views&color=0e75b6&style=flat" alt="joel-rodgers" /> </p>
 
-- 🔭 I’m currently working on my final year project **E-Voting System Using Blockchain Technology**
+- 🔭 I’m currently perfecting my data analytics skills*
 
 - 🌱 I’m currently learning about web 3.0 technology and python programming language **Python Essentials 1**
 
